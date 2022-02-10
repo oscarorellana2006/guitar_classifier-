@@ -10,3 +10,4 @@ dependencies:
   - torchaudio
   - voila
   - voila-material
+  - fastdownload
