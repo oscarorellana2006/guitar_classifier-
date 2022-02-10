@@ -2,12 +2,8 @@ name: guitar-cassifier
 channels:
   - fastchan
   - conda-forge
-  - torch
 dependencies:
   - fastai >=2
-  - pytorch
-  - torchvision 
-  - torchaudio
   - voila
   - voila-material
   - fastdownload
