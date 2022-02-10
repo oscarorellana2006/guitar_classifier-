@@ -5,7 +5,7 @@ channels:
   - torch
 dependencies:
   - fastai >=2
-  - torch 
+  - pytorch
   - torchvision 
   - torchaudio
   - voila
