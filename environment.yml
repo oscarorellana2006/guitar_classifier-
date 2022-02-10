@@ -1,0 +1,10 @@
+name: guitar-cassifier
+channels:
+  - conda-forge
+dependencies:
+  - fastai >=2
+  - torch 
+  - torchvision 
+  - torchaudio
+  - voila
+  - voila-material
